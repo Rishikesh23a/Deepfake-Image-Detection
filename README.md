@@ -41,9 +41,13 @@ EfficientNet
 
 Future Improvements:-
 Add more pretrained models.
+
 Deploy as a web app (Streamlit/Flask).
+
 Extend to video-based deepfake detection.
 
 Author:-
+
 Your Name:- Rushikesh Sable
+
 GitHub: Rishikesh23a
