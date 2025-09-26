@@ -26,11 +26,17 @@ You need to download it manually from Kaggle and place it in your working direct
 
 
 🧠 Models Used
+
 Convolutional Neural Networks (CNNs)
+
 (Optional) You can extend with:
+
 ResNet
+
 VGG16
+
 MobileNet
+
 EfficientNet
 
 Future Improvements:-
